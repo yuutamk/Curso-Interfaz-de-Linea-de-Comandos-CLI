@@ -1,6 +1,6 @@
 # Tu Guía Definitiva para Entender Qué es una Terminal y Cómo Funciona
 
-![Terminal como traductor](https://images.unsplash.com/photo-1581092580497-e0d23cbdf1dc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80)
+![Terminal como traductor](./img/02_cli_windows.jpg)
 
 ## La Terminal: Tu Intérprete Personal con la Computadora
 

@@ -1,6 +1,6 @@
 # Cómo Instalar la Terminal Bash en Windows con WSL: Guía Paso a Paso para Principiantes
 
-![WSL en Windows](https://images.unsplash.com/photo-1618044733300-9472054094ee?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80)
+![WSL en Windows](./img/03_wsl.webp)
 
 ## Lleva el Poder de Linux a tu Windows sin Complicaciones
 
@@ -34,7 +34,7 @@ No te preocupes, más abajo te explico cómo solucionarlo paso a paso.
 ## Instalación de WSL: Guía Visual Paso a Paso
 
 ### Paso 1: Abre PowerShell como Administrador
-![PowerShell administrador](https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1074&q=80)
+![PowerShell administrador](./img/04_WindowsPowerShell.jpg)
 
 1. Haz clic en el botón de Inicio de Windows
 2. Escribe "PowerShell"

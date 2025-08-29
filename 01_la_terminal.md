@@ -1,10 +1,10 @@
 # Descubre la Terminal: Tu Nuevo Superpoder Digital para Windows y Más
 
-![Terminal amigable](https://images.unsplash.com/photo-1618044733300-9472054094ee?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80)
+![Terminal amigable](./img/01_terminal.png)
 
 ## ¿Te da miedo la pantalla negra con letritas? ¡Vamos a cambiar eso!
 
-Si eres de los que solo ha usado Windows y nunca has tocado esa pantalla negra que parece de película de hackers, este blog es para ti. La terminal puede parecer intimidante al principio, pero en realidad es una herramienta superpoderosa que te hará trabajar más rápido y sentirte como un verdadero experto en computación.
+Si eres de los que solo ha usado Windows y nunca has tocado esa pantalla negra que parece de película de hackers, este curso es para ti. La terminal puede parecer intimidante al principio, pero en realidad es una herramienta superpoderosa que te hará trabajar más rápido y sentirte como un verdadero experto en computación.
 
 Imagina esto: en lugar de hacer clic en diez ventanas diferentes para organizar tus fotos, escribir un comando y ¡listo! Todo se organiza automáticamente. Eso es lo que puedes lograr con la terminal.
 
@@ -56,7 +56,7 @@ Crea una carpeta nueva llamada "MiCarpetaNueva". "mkdir" significa "make directo
 
 ## Cómo la terminal te ayuda a entender tu computadora
 
-### Verás lo invisible
+
 Las interfaces gráficas te muestran solo lo básico. La terminal te deja ver todo lo que está pasando detrás de escena. Es como tener visión de rayos X para tu computadora.
 
 ### Ejemplo práctico: Encontrar espacio en el disco
